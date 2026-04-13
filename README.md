@@ -11,7 +11,7 @@ Dự án sử dụng Deep Learning để phân loại và nhận diện lá cây
 
 ## 📊 Dataset
 Dataset được lưu trên Kaggle:  
-https://www.kaggle.com/datasets/khanhtran/data_leaves
+https://www.kaggle.com/datasets/khanhfin/data-leaves
 
 ## 🚀 Cách chạy
 1. Cài thư viện:
